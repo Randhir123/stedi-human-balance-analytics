@@ -1,2 +1,1 @@
-# stedi-human-balance-analytics
-STEDI Human Balance Analytics
+# STEDI Human Balance Analytics
